@@ -55,7 +55,11 @@
       "type": "object",
       "description": "The configuration for custom properties.",
       "default": {
-        "properties": []
+        "properties": [
+          {
+            "permalink": "permalink"
+          }
+                ]
       },
       "properties": {
         "properties": {

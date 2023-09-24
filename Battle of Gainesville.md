@@ -1,0 +1,1 @@
+The Battle of Gainesville occurred on August 17, [[1864]]. 
